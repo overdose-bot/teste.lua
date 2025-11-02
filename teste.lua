@@ -6,7 +6,7 @@ local TeleportService = game:GetService("TeleportService")
 local UserInputService = game:GetService("UserInputService")
 
 -- Configurações da API
-local API_BASE_URL = "http://192.168.1.7:8000"
+local API_BASE_URL = "https://hidebound-daine-amphitheatrically.ngrok-free.dev"
 local CHECK_INTERVAL = 5
 
 -- Variáveis globais
